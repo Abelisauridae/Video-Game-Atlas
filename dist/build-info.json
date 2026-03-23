@@ -1,0 +1,14 @@
+{
+  "catalogSource": "batocera",
+  "systemCount": 85,
+  "gameCount": 29802,
+  "assetStrategy": {
+    "mode": "published-web-url",
+    "boxArtBaseUrl": "./box-art",
+    "boxArtStagingDir": "./box-art",
+    "publishedGameImageCount": 24524,
+    "missingBoxArtCount": 0,
+    "copiedAssetCount": 24301
+  },
+  "openFile": "index.html"
+}
